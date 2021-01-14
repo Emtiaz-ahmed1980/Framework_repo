@@ -1,0 +1,39 @@
+12/09/2020 10:29:24 devpinoyLogger ........... Test Suite is started.................
+12/09/2020 10:29:44 devpinoyLogger Webpage open successfully by Emtiaz Ahmed
+12/09/2020 10:29:46 devpinoyLogger Issued with:TypeError: this.curBrowser.messageManager is null
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-OSSCLHS4', ip: '192.168.1.164', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 83.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201112153044, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 7640, moz:profile: C:\Users\EMTI\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 36a0aa2c-e12c-4cad-aed3-3d62032f93a9
+*** Element info: {Using=xpath, value=//*[@id='first-name-su']}
+12/09/2020 10:29:50 devpinoyLogger Issued with:Failed to decode response from marionette
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-OSSCLHS4', ip: '192.168.1.164', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 83.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201112153044, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 7640, moz:profile: C:\Users\EMTI\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 36a0aa2c-e12c-4cad-aed3-3d62032f93a9
+*** Element info: {Using=xpath, value=//input[@id='last-name-su']}
+12/09/2020 10:29:50 devpinoyLogger Issued with:Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-OSSCLHS4', ip: '192.168.1.164', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 83.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201112153044, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 7640, moz:profile: C:\Users\EMTI\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 36a0aa2c-e12c-4cad-aed3-3d62032f93a9
+*** Element info: {Using=xpath, value=//input[@id='email-su']}
+12/09/2020 10:29:50 devpinoyLogger Issued with:Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-OSSCLHS4', ip: '192.168.1.164', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 83.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201112153044, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 7640, moz:profile: C:\Users\EMTI\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 36a0aa2c-e12c-4cad-aed3-3d62032f93a9
+*** Element info: {Using=xpath, value=//input[@id='password-su']}
+12/09/2020 10:29:50 devpinoyLogger Issued with:Tried to run command without establishing a connection
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-OSSCLHS4', ip: '192.168.1.164', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 83.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20201112153044, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 7640, moz:profile: C:\Users\EMTI\AppData\Local..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 36a0aa2c-e12c-4cad-aed3-3d62032f93a9
+*** Element info: {Using=xpath, value=//form[@id='sign-up-form']//button[@class='button s-margin-top text-inherit'][contains(text(),'Create account')]}
+12/09/2020 10:29:50 devpinoyLogger browser get closed
+12/09/2020 10:29:50 devpinoyLogger ...............Test Suite is ended.................
