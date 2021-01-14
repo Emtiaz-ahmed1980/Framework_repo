@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" parallel="none">
+  <test name="Default test(failed)" parallel="none">
+    <classes>
+      <class name="base.Configure_Enviroment_setting">
+        <methods>
+          <include name="beforesuite"/>
+        </methods>
+      </class> <!-- base.Configure_Enviroment_setting -->
+      <class name="test_cases.Walmart_account">
+        <methods>
+          <include name="walmartaccount"/>
+        </methods>
+      </class> <!-- test_cases.Walmart_account -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

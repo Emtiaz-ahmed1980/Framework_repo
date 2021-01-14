@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Modularframework]">
+  <parameter name="browser" value="firefox"/>
+  <parameter name="url" value="https://www.walmart.com/"/>
+  <test name="walmartaccount(failed)">
+    <parameter name="browser" value="firefox"/>
+    <parameter name="url" value="https://www.walmart.com/"/>
+    <classes>
+      <class name="test_cases.Walmart_account">
+        <methods>
+          <include name="singin"/>
+          <include name="walmartaccount"/>
+          <include name="beforesuite"/>
+          <include name="browseropen"/>
+        </methods>
+      </class> <!-- test_cases.Walmart_account -->
+    </classes>
+  </test> <!-- walmartaccount(failed) -->
+</suite> <!-- Failed suite [Modularframework] -->
