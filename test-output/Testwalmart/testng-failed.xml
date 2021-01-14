@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Testwalmart]">
+  <parameter name="browser" value="firefox"/>
+  <parameter name="url" value="https://www.walmart.com/"/>
+  <test name="account create (failed)">
+    <parameter name="browser" value="firefox"/>
+    <parameter name="url" value="https://www.walmart.com/"/>
+    <classes>
+      <class name="test_cases.Walmart_account">
+        <methods>
+          <include name="walmartaccount"/>
+          <include name="beforesuite"/>
+          <include name="browseropen"/>
+        </methods>
+      </class> <!-- test_cases.Walmart_account -->
+    </classes>
+  </test> <!-- account create (failed) -->
+</suite> <!-- Failed suite [Testwalmart] -->
