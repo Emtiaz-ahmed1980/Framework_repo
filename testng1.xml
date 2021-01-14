@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testwalmart">
+  <test thread-count="5" name="account create ">
+  <parameter name="browser" value="firefox"></parameter>
+  <parameter name="url" value="https://www.walmart.com/"></parameter>
+    <classes>
+      <class name="test_cases.Walmart_account"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Testwalmart -->
